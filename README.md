@@ -61,7 +61,6 @@ This is a responsive Coffee Shop website designed to showcase your products, men
 
 ## Author
 
-* Developed by Habtamu Befekadu
-* 
+* Developed by Habtamu Befekad
 
 
